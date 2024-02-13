@@ -43,7 +43,7 @@ export const experiencesData = [
     description:
       "I worked as a front-end developer intern at Oluadepe farms nig ltd.",
     icon: React.createElement(LuGraduationCap),
-    date: "2024",
+    date: "2024 - present",
   },
   {
     title: "Hackathon",
@@ -59,7 +59,7 @@ export const experiencesData = [
     description:
       "I am currently working as freelance front-end developer with different platforms like freelancer.com and upwork. My tech stack includes; ReactJs, NextJs, TailwindCSS, TypeScript, MongoDB, Firebase, Redux, GitHub",
     icon: React.createElement(FaReact),
-    date: "2024",
+    date: "2024 - present",
   },
 ] as const;
 

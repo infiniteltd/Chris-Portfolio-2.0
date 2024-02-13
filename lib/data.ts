@@ -57,7 +57,7 @@ export const experiencesData = [
     title: "Front-end Developer",
     location: "Abuja, FCT",
     description:
-      "I am currently working as freelance front-end developer with different platforms like freelancer.com and upwork. My tech stack includes; ReactJs, NextJs, TailwindCSS, TypeScript, MongoDB, Firebase, Redux, GitHub",
+      "I am currently working as a freelance front-end developer with different platforms like freelancer.com and upwork. My tech stack includes; ReactJs, NextJs, TailwindCSS, TypeScript, MongoDB, Firebase, Redux, GitHub",
     icon: React.createElement(FaReact),
     date: "2024 - present",
   },

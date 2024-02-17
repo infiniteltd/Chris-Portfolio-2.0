@@ -121,19 +121,84 @@ export const projectsData = [
 ] as const;
 
 export const skillsData = [
-  "HTML",
-  "Bootstrap",
-  "Tailwind",
-  "ReactJs",
-  "Redux",
-  "Nextjs",
-  "TypeScript",
-  "Framer Motion",
-  "Node.js",
-  "ExpressJs",
-  "MySQL",
-  "MongoDb",
-  "Jest",
-  "GitHub",
-  "React Native",
+  {
+    id: 1,
+    skill: "HTML",
+    percentage: 95,
+  },
+  {
+    id: 2,
+    skill: "Bootstrap",
+    percentage: 95,
+  },
+  {
+    id: 3,
+    skill: "Tailwind",
+    percentage: 90,
+  },
+  {
+    id: 4,
+    skill: "ReactJs",
+    percentage: 90,
+  },
+  {
+    id: 5,
+    skill: "Redux",
+    percentage: 85,
+  },
+  {
+    id: 6,
+    skill: "Nextjs",
+    percentage: 90,
+  },
+  {
+    id: 7,
+    skill: "TypeScript",
+    percentage: 85,
+  },
+  {
+    id: 7,
+    skill: "Framer Motion",
+    percentage: 90,
+  },
+  {
+    id: 8,
+    skill: "Node.js",
+    percentage: 95,
+  },
+  {
+    id: 9,
+    skill: "ExpressJs",
+    percentage: 95,
+  },
+  {
+    id: 10,
+    skill: "MySQL",
+    percentage: 95,
+  },
+  {
+    id: 11,
+    skill: "Firebase",
+    percentage: 90,
+  },
+  {
+    id: 12,
+    skill: "MongoDb",
+    percentage: 85,
+  },
+  {
+    id: 13,
+    skill: "Jest",
+    percentage: 85,
+  },
+  {
+    id: 14,
+    skill: "GitHub",
+    percentage: 95,
+  },
+  {
+    id: 15,
+    skill: "Postman",
+    percentage: 80,
+  },
 ] as const;

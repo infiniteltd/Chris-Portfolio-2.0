@@ -114,14 +114,7 @@ export const projectsData = [
     title: "Instagram Clone",
     description:
       "Instagram is a social media app used by many users all over the world to showcase ones lifestyle and business.",
-    tags: [
-      "NextJs",
-      "Firebase",
-      "Tailwind",
-      "Recoil",
-      "HeadlessUI",
-      "Google Cloud",
-    ],
+    tags: ["NextJs", "Firebase", "Tailwind", "Recoil"],
     imageUrl: instagramImg,
     github: "https://github.com/infiniteltd/Instagram-clone2.0",
     live: "https://instagram-clone2-0-mocha.vercel.app/",

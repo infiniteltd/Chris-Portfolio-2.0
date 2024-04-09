@@ -5,6 +5,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import forkifyImg from "@/public/forkify-recipe.png";
 import gmailImg from "@/public/gmail-clone.png";
 import linkedinImg from "@/public/linkedin-clone.png";
+import instagramImg from "@/public/instagram-clone.png";
 import maptyImg from "@/public/Mapty-app.png";
 import mediumImg from "@/public/medium-clone.png";
 import slackImg from "@/public/slack-clone.png";
@@ -108,6 +109,22 @@ export const projectsData = [
     imageUrl: linkedinImg,
     github: "https://github.com/infiniteltd/LinkedIn-Clone",
     live: "https://linkedin-clone-kris.netlify.app/",
+  },
+  {
+    title: "Instagram Clone",
+    description:
+      "Instagram is a social media app used by many users all over the world to showcase ones lifestyle and business.",
+    tags: [
+      "NextJs",
+      "Firebase",
+      "Tailwind",
+      "Recoil",
+      "HeadlessUI",
+      "Google Cloud",
+    ],
+    imageUrl: instagramImg,
+    github: "https://github.com/infiniteltd/Instagram-clone2.0",
+    live: "https://instagram-clone2-0-mocha.vercel.app/",
   },
   {
     title: "Forkify",

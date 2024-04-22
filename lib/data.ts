@@ -117,7 +117,7 @@ export const projectsData = [
     tags: ["NextJs", "Firebase", "Tailwind", "Recoil"],
     imageUrl: instagramImg,
     github: "https://github.com/infiniteltd/Instagram-clone2.0",
-    live: "https://instagram-clone2-0-mocha.vercel.app/",
+    live: "https://instagram-clone2-0-six.vercel.app/",
   },
   {
     title: "Forkify",

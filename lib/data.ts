@@ -108,7 +108,7 @@ export const projectsData = [
     tags: ["ReactJs", "Firebase", "Tailwind", "Redux"],
     imageUrl: linkedinImg,
     github: "https://github.com/infiniteltd/LinkedIn-Clone",
-    live: "https://linkedin-clone-kris.netlify.app/",
+    live: "https://linkedinclonekris.netlify.app/",
   },
   {
     title: "Instagram Clone",

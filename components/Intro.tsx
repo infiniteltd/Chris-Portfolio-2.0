@@ -10,6 +10,7 @@ import { HiDownload } from "react-icons/hi";
 import { FaGithubSquare, FaYoutubeSquare } from "react-icons/fa";
 import { useSectionInView } from "@/lib/hooks";
 import { useActiveSectionContext } from "@/context/Active-section";
+import UpworkSvg from "@/public/Upworksvg.svg";
 
 export default function Intro() {
   const { ref } = useSectionInView("Home", 0.5);
@@ -100,6 +101,13 @@ export default function Intro() {
           className="bg-white p-4 text-gray-700 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
         >
           <BsLinkedin />
+        </a>
+        <a
+          href="https://www.upwork.com/freelancers/~0177bee8f78aa9db06"
+          target="_blank"
+          className="bg-white p-4 text-gray-700 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
+        >
+          <Image src={UpworkSvg} alt="Upwork" className="w-5 h-5" />
         </a>
 
         <a

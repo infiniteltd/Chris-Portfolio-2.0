@@ -188,8 +188,8 @@ export const skillsData = [
   },
   {
     id: 9,
-    skill: "ExpressJs",
-    percentage: 95,
+    skill: "Python",
+    percentage: 90,
   },
   {
     id: 10,

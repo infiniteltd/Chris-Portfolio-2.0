@@ -9,6 +9,7 @@ import instagramImg from "@/public/instagram-clone.png";
 import maptyImg from "@/public/Mapty-app.png";
 import mediumImg from "@/public/medium-clone.png";
 import slackImg from "@/public/slack-clone.png";
+import goalImg from "@/public/Goal-Genius.png";
 
 export const links = [
   {
@@ -127,6 +128,15 @@ export const projectsData = [
     imageUrl: forkifyImg,
     github: "https://github.com/infiniteltd/forkify-recipe-app",
     live: "https://forkify-recipeapi.netlify.app",
+  },
+  {
+    title: "Goal Genius",
+    description:
+      "An interactive football quiz built with Next.js, React, and Tailwind CSS, featuring timed questions, instant feedback, and a sleek performance summary to challenge and engage users",
+    tags: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+    imageUrl: goalImg,
+    github: "https://github.com/infiniteltd/goal-genius",
+    live: "https://goal-genius.vercel.app/",
   },
 ] as const;
 

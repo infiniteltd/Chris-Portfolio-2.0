@@ -133,7 +133,7 @@ export const projectsData = [
     title: "Goal Genius",
     description:
       "An interactive football quiz built with modern Tech stacks, featuring timed questions, instant feedback, and summary to challenge and engage users",
-    tags: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+    tags: ["Next.js", "TypeScript", "Tailwind CSS"],
     imageUrl: goalImg,
     github: "https://github.com/infiniteltd/goal-genius",
     live: "https://goal-genius.vercel.app/",
